@@ -1,2 +1,2 @@
-# gitopscli
-redirect to https://github.com/baloise/gitopscli
+# GitOps CLI
+Repository moved to https://github.com/baloise/gitopscli
